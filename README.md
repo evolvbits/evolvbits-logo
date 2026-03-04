@@ -1,9 +1,7 @@
-# EvolvBits Artworks - version 0.1.0
+# EvolvBits Brand
 
-### SVG creation
+## Requirements
 
-- Program: InkScape
+- [InkScape](https://inkscape.org) >= 1.3
 
-### Logo
-
-- Font: Montserrat - Semi Bold
+- Typography: [Montserrat (Google Fonts)](https://fonts.google.com/specimen/Montserrat)
