@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!--
+Created with Inkscape (http://www.inkscape.org/)
+  © 2026 William C. Canin
+  This artwork is protected by copyright.
+  Unauthorized use, copying, or modification is prohibited.
+-->
 
 <svg
    width="270mm"
@@ -13,7 +18,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">EvolvBits</title><sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -28,7 +37,7 @@
      inkscape:cx="-1061.6935"
      inkscape:cy="270.95303"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -72,4 +81,6 @@
        d="m 115.03264,121.79926 c -5.06383,-0.004 -3.6547,-4.3285 -3.56116,-6.1681 2.94937,-15.34888 16.13729,-18.573165 32.08784,-18.525919 h 55.78181 c 3.52833,0.03734 5.51671,-1.851524 5.75829,-5.758286 V 65.105912 c -0.55756,-2.884033 -3.25218,-4.828046 -7.72806,-4.461794 h -65.14784 c -31.31002,-0.0079 -57.943212,18.53763 -58.284158,58.284162 0.742154,17.42428 9.049125,23.21434 13.402807,23.21434 h 14.340101 c 3.13693,0 3.41741,2.63317 3.41741,5.91913 v 3.73012 c 0.0405,4.83545 2.64953,5.97233 5.97233,5.97233 h 89.00065 c 2.92869,0 4.99786,-2.10503 4.99786,-4.99787 v -26.76079 c 0.025,-2.09944 -1.91848,-4.19289 -4.38686,-4.19289 z"
        id="path2"
        sodipodi:nodetypes="ccccccccccccccccccc"
-       inkscape:label="top" /></g></svg>
+       inkscape:label="top" /></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:creator><cc:Agent><dc:title>William C. Canin</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>© 2026 William C. Canin. Unauthorized use prohibited.</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>William C. Canin</dc:title></cc:Agent></dc:publisher><dc:title>EvolvBits</dc:title></cc:Work></rdf:RDF></metadata></svg>
