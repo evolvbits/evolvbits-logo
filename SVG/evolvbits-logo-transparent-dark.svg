@@ -33,9 +33,9 @@ Created with Inkscape (http://www.inkscape.org/)
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.18084315"
-     inkscape:cx="-306.89578"
-     inkscape:cy="514.2578"
+     inkscape:zoom="0.3616863"
+     inkscape:cx="434.07782"
+     inkscape:cy="688.44189"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -46,7 +46,8 @@ Created with Inkscape (http://www.inkscape.org/)
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="background"><g
-       id="g1"><path
+       id="g1"
+       transform="matrix(1.6968641,0,0,1.7249835,-78.02584,-104.53377)"><path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-opacity:1;paint-order:fill markers stroke"
          d="m 147.01005,179.10396 54.31535,-0.0229 c 2.33559,0 3.38331,1.81834 3.38331,3.48063 v 31.10952 c 0,1.9696 -1.5861,3.45189 -3.60735,3.45189 h -55.18457 c -1.5718,0 -3.02158,-0.849 -3.02158,-2.60607 V 183.1561 c 0,-2.13012 1.3824,-4.05214 4.11484,-4.05214 z"
          id="path1-20"
